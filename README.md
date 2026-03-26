@@ -37,18 +37,6 @@ News API (financial news)
 ai-stock-sentiment-dashboard/
 
 
-│
-├── backend/
-│   ├── routes/
-│   ├── services/
-│   ├── server.js
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   ├── public/
-│
-└── README.md
 
 
 ⚙️ Installation & Setup
