@@ -35,6 +35,8 @@ Yahoo Finance API (stock + historical data)
 News API (financial news)
 📂 Project Structure
 ai-stock-sentiment-dashboard/
+
+
 │
 ├── backend/
 │   ├── routes/
@@ -47,6 +49,8 @@ ai-stock-sentiment-dashboard/
 │   ├── public/
 │
 └── README.md
+
+
 ⚙️ Installation & Setup
 1. Clone the repository
 git clone https://github.com/your-username/ai-stock-sentiment-dashboard.git
