@@ -37,31 +37,6 @@ News API (financial news)
 ai-stock-sentiment-dashboard/
 
 
-
-
-⚙️ Installation & Setup
-1. Clone the repository
-git clone https://github.com/your-username/ai-stock-sentiment-dashboard.git
-cd ai-stock-sentiment-dashboard
-2. Backend Setup
-cd backend
-npm install
-
-Create a .env file:
-
-OPENAI_API_KEY=your_api_key_here
-
-Run backend:
-
-node server.js
-3. Frontend Setup
-cd frontend
-npm install
-npm start
-📸 Screenshots
-
-(Add screenshots here once you push your project)
-
 💡 How It Works
 User enters a stock ticker (e.g., TSLA)
 Backend:
